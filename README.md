@@ -20,7 +20,7 @@ Chapter8| Essence of linear algebra | onsquare matrices as transformations betwe
 Chapter9| Essence of linear algebra |Dot products and duality
 Chapter10| Essence of linear algebra |Cross products
 Chapter11|Essence of linear algebra | Cross products in the light of linear transformations 
- Chapter12 | 선형대수학의 정수 | 크래머 공식을 기하학적으로 이해해 보자 |
+ Chapter12 | Essence of linear algebra | 크래머 공식을 기하학적으로 이해해 보자 |
 Chapter13|Essence of linear algebra |  Change of basis 
  Chapter14| Essence of linear algebra | Eigenvectors and eigenvalues
 Chapter15|Essence of linear algebra | A quick trick for computing eigenvalues
