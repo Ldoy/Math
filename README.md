@@ -10,9 +10,9 @@
 |   | Chapter Title | Description | Summary | Date |
 | ------- | ------------- | ----------- | ------- | ---|
 Chapter1 | Essence of linear algebra   |   Vectors    |
-Chapter2| Essence of linear algebra|Linear combinations, span, and basis vectors | [타코캣](https://github.com/Ldoy/Math/tree/main/Chapter2)| 2021.12.20.|
+Chapter2| Essence of linear algebra|Linear combinations, span, and basis vectors | [타코캣](https://github.com/Ldoy/Math/tree/main/Chapter2)| 타코캣(2021.12.20.)|
 |Chapter3| Essence of linear algebra | Linear transformations and matrices| 
-Chapter4| Essence of linear algebra|Matrix multiplication as composition | |
+Chapter4| Essence of linear algebra|Matrix multiplication as composition | [타코캣](https://github.com/Ldoy/Math/tree/main/chapter4)| 타코캣(2022.01.02.)| 
 | Chapter5| Essence of linear algebra | Three-dimensional linear transformations | 
 Chapter6| Essence of linear algebra | The determinant 
 | Chapter7| Essence of linear algebra | Inverse matrices, column space and null space | 
