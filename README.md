@@ -9,7 +9,7 @@
 - 강의명 : Essence of linear algebra 
 
 |   | Description | Summary | Date |
-| ------- | ----------- | -- | -------|
+| :---: | :----------- | :-- | :-------|
 | Chapter1 |  Vectors    |[수박](./Chapter1/Chapter1_수박.md) | 수박(2022.01.11.) | 
 | Chapter2 | Linear combinations, span, and basis vectors | [타코캣](https://github.com/Ldoy/Math/tree/main/Chapter2) <br> [수박](./Chapter2/Chapter2_수박.md)| 타코캣(2021.12.20.) <br> 수박(2022.01.12.)|
 | Chapter3 | Linear transformations and matrices| [타코캣](https://github.com/Ldoy/Math/blob/main/chapter3/chapter3_Tacocat.md)| 타코캣(2022.01.02.)|
