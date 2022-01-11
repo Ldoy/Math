@@ -6,7 +6,7 @@
 ## 커리큘럼 (2021/12/13 - ...)
 - 강의링크 : [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - 진도 : 적어도 매주 1개이상의 강의 듣고 정리하기 
-- Chapter Title : Essence of linear algebra 
+- 강의명 : Essence of linear algebra 
 
 |   | Description | Summary | Date |
 | ------- | ----------- | -- | -------|
